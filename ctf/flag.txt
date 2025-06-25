@@ -1,1 +1,1 @@
-ACTF{command_injection_is_fun}
+ACTF{c0mm@Nd_1nj3c710n}

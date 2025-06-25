@@ -5,7 +5,7 @@ FLAG_PATH = "/ctf/flag.txt"
 if not os.path.exists(FLAG_PATH):
     os.makedirs(os.path.dirname(FLAG_PATH), exist_ok=True)
     with open(FLAG_PATH, "w") as f:
-        f.write("ACTF{c0mm@nd_1nj3ct10n}")
+        f.write("ACTF{c0mm@Nd_1nj3c710n}")
 
 def check_waf(input_str: str) -> None:
     forbidden = r"[;|&&$()]"

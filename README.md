@@ -1,7 +1,7 @@
 ### Описание инфрастуктуры
 1) backend:
     - fastapi
-2) frontend:
+2) front1end:
     - html
 
 
